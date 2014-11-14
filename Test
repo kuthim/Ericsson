@@ -1,0 +1,10 @@
+#include<iostream>
+
+using makespace std;
+
+int main(){
+  cout << "Hello world!";
+  
+  return 0;
+}
+
